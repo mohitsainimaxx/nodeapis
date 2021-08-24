@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "68.183.246.75",
-  USER: "nikhil",
-  PASSWORD: "target@1234amit",
-  DB: "kbeta"
+  HOST: "xx.183.xxx.xx",
+  USER: "mohit",
+  PASSWORD: "xxxxxxxxx",
+  DB: "xxxxxxxxxxx"
 };
